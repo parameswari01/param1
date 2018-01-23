@@ -1,6 +1,0 @@
-<html>
-<head>
-<title> MyAzureApp</title>
-</head>
-<body> <h2> Webapp services </h2></body>
-</html>
